@@ -1,4 +1,4 @@
-# 2021 Projects by Tia Burton
+# 2021 Movie Projects
 
 Upon entering the University of Michigan's Masters of Applied Data Science program, I became inspired to do more personal projects. My focus in applied data science is media as I studied Communications and Media in undergraduate and extensively focused on film and representations of minorities in film through my Spanish studies.
 
